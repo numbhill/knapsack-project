@@ -29,7 +29,7 @@ Follow these steps to set up the project locally.
 
 ### Prerequisites
 
-- PHP = 8.3
+- PHP >= 7.3
 - Composer
 - sqlite or any other supported database
 

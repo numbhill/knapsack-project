@@ -38,7 +38,7 @@ Follow these steps to set up the project locally.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/knapsack-project.git
+    git clone https://github.com/numbhill/knapsack-project.git
     cd knapsack-project
     ```
 
